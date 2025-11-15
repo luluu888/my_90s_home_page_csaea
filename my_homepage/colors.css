@@ -5,3 +5,54 @@ body {
     background-image: url(cutebg.png);
     text-align: center;
 }
+
+.mikunurse {
+    position: fixed;
+    right: 200px;
+    bottom: 250px;
+
+}
+
+.pictochat {
+    width: 400px;
+    height: 350px;
+    position: absolute;
+    top: 10%;
+    left: 36%;
+}
+
+
+h1 {
+    position: relative;
+    top: 30px;
+    background-image: url(banner.png);
+}
+
+.firstlinehead {
+    position: absolute;
+    left: 20px;
+}
+
+.scndlinehead {
+    position:absolute;
+    right: 35px;
+}
+
+.thrdlinehead {
+    position:absolute;
+    left: 5px;
+}
+
+
+p {
+    position: relative;
+    bottom: 290px;
+}
+
+.menubar {
+    text-align: left;
+    position:relative;
+    left: 40px
+}
+
+
