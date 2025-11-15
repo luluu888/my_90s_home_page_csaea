@@ -4,12 +4,13 @@ body {
     margin: 20px;
     background-image: url(cutebg.png);
     text-align: center;
+    cursor: url("cursor.png"), default;
 }
 
 .mikunurse {
-    position: fixed;
-    right: 200px;
-    bottom: 250px;
+    position: absolute;
+    right: 20vw;
+    bottom: 40vw;
 
 }
 
@@ -21,38 +22,32 @@ body {
     left: 36%;
 }
 
+.firstlinehead {
+    position: fixed;
+    bottom: 82%;
+    left: 45%
+}
+
 
 h1 {
     position: relative;
     top: 30px;
     background-image: url(banner.png);
+    font-size: large;
 }
 
-.firstlinehead {
-    position: absolute;
-    left: 20px;
+.yellowcurtain {
+    border:none;
+    height: 20px; 
+    background-image: url("yellow2.png"); 
+    background-repeat: repeat; 
+    background-size: contain;
+    
 }
-
-.scndlinehead {
-    position:absolute;
-    right: 35px;
-}
-
-.thrdlinehead {
-    position:absolute;
-    left: 5px;
-}
-
 
 p {
     position: relative;
     bottom: 290px;
-}
-
-.menubar {
-    text-align: left;
-    position:relative;
-    left: 40px
 }
 
 
