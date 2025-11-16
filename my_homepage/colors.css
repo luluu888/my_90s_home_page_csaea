@@ -7,6 +7,49 @@ body {
     cursor: url("cursor.png"), default;
 }
 
+.stamp {
+    position: absolute;
+    width: 5%;
+    height: 5%;
+}
+
+.mikustamp {
+    position: absolute;
+    left: 45%;
+    width: 5%;
+    height: 5%;
+}
+
+.emustamp {
+    position: absolute;
+    left: 40%;
+    width: 5%;
+    height: 5%;
+
+}
+
+.lukastamp {
+    position: absolute;
+    left: 35%;
+    width: 5%;
+    height: 5%;
+
+}
+
+.cloverstamp {
+    position: absolute;
+    width: 5%;
+    height: 5%;
+    left: 55%;
+}
+
+.oliverstamp {
+    position: absolute;
+    width: 5%;
+    height: 5%;
+    left: 60%;
+}
+
 .mikunurse {
     position: absolute;
     right: 20vw;
@@ -14,26 +57,48 @@ body {
 
 }
 
+.scroll {
+    position: absolute;
+    right: 36.7%;
+    top: 13%;
+}
+
 .pictochat {
     width: 400px;
     height: 350px;
     position: absolute;
-    top: 10%;
+    top: 15%;
     left: 36%;
 }
 
+.petal {
+    width: 500px;
+    height: 350px;
+    position: absolute;
+    top: 15%;
+    left: 1%;
+}
+
+.cats {
+    width: 510px;
+    height: 350px;
+    position: absolute;
+    top: 15%;
+    left: 64%;
+}
+
 .firstlinehead {
-    position: fixed;
-    bottom: 82%;
+    position: absolute;
+    bottom: 77%;
     left: 45%
 }
 
 
 h1 {
     position: relative;
-    top: 30px;
+    top: 10%;
     background-image: url(banner.png);
-    font-size: large;
+    font-size:xx-large;
 }
 
 .yellowcurtain {
@@ -45,9 +110,15 @@ h1 {
     
 }
 
-p {
-    position: relative;
-    bottom: 290px;
+.scndlinehead {
+    position: absolute;
+    top: 21.5%;
+    left: 40%;
+
 }
 
-
+.thrdlinehead {
+    position: absolute;
+    top: 25%;
+    left: 40%;
+}
