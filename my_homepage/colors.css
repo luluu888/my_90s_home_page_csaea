@@ -167,3 +167,55 @@ h3 {
     font-size: large;
 }
 
+.vocaloid {
+    position: absolute;
+    width: 30%;
+    height:30%;
+    right: 65%;
+    top: 113%;
+}
+
+.tabletitle {
+    font-size: larger;
+}
+.songtable {
+    text-align: left;
+    position: absolute;
+    left: 40%;
+    font-size: large;
+    background-color: rgb(248, 236, 163);
+    box-shadow: 5px 5px 10px grey;
+    border-image: url(yellow2.png);
+}
+
+.mangainfo {
+    text-align: left;
+    line-height: 150%;
+    background-color:rgb(248, 236, 163);
+    box-shadow: 5px 5px 10px grey;
+}
+
+.mangainfo:hover {
+    font-size: large;
+}
+
+.mangalist {
+    font-size:large;
+    text-align: left;
+    padding-left: 40%;
+}
+
+.gameinfo {
+    text-align: left;
+    line-height: 150%;
+    background-color:rgb(248, 236, 163);
+    box-shadow: 5px 5px 10px grey;
+}
+.gameinfo:hover {
+    font-size: large;
+}
+
+.ruimizu {
+    width: 20%;
+    height: 15%;
+}
