@@ -121,4 +121,48 @@ h1 {
     position: absolute;
     top: 25%;
     left: 40%;
+} 
+
+
+.fourlinehead {
+    position: absolute;
+    top: 28.5%;
+    left: 40%;
+} 
+
+
+.fivelinehead {
+    position: absolute;
+    top: 32%;
+    left: 40%;
+} 
+
+h3 {
+    font-size: x-large;
+    text-align: left;
 }
+
+.vocaloidinfo {
+    text-align: left;
+    line-height: 150%;
+    background-color:rgb(248, 236, 163);
+    box-shadow: 5px 5px 10px grey;
+
+}
+
+.vocaloidinfo:hover {
+    font-size: large;
+}
+
+.vocaloidinfo2 {
+    text-align: left;
+    line-height: 150%;
+    background-color:rgb(248, 236, 163);
+    box-shadow: 5px 5px 10px grey;
+
+}
+
+.vocaloidinfo2:hover {
+    font-size: large;
+}
+
