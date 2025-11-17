@@ -90,8 +90,8 @@ body {
 
 .firstlinehead {
     position: absolute;
-    bottom: 77%;
-    left: 45%
+    bottom: 73%;
+    left: 47%
 }
 
 
@@ -113,28 +113,28 @@ h1 {
 
 .scndlinehead {
     position: absolute;
-    top: 21.5%;
+    top: 24%;
     left: 40%;
 
 }
 
 .thrdlinehead {
     position: absolute;
-    top: 25%;
+    top: 29%;
     left: 40%;
 } 
 
 
 .fourlinehead {
     position: absolute;
-    top: 28.5%;
+    top: 34%;
     left: 40%;
 } 
 
 
 .fivelinehead {
     position: absolute;
-    top: 32%;
+    top: 39%;
     left: 40%;
 } 
 
@@ -172,7 +172,7 @@ h3 {
     width: 30%;
     height:30%;
     right: 65%;
-    top: 113%;
+    top: 180%;
 }
 
 .tabletitle {
@@ -185,7 +185,9 @@ h3 {
     font-size: large;
     background-color: rgb(248, 236, 163);
     box-shadow: 5px 5px 10px grey;
-    border-image: url(yellow2.png);
+    border-style:solid;
+    border-color: rgb(169, 29, 106);
+    border-width: 10%;
 }
 
 .mangainfo {
