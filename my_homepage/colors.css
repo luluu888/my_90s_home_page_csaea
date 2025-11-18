@@ -9,12 +9,14 @@ body {
 
 .stamp {
     position: absolute;
+    top: 10%;
     width: 5%;
     height: 5%;
 }
 
 .mikustamp {
     position: absolute;
+    top: 10%;
     left: 45%;
     width: 5%;
     height: 5%;
@@ -22,6 +24,7 @@ body {
 
 .emustamp {
     position: absolute;
+    top: 10%;
     left: 40%;
     width: 5%;
     height: 5%;
@@ -30,6 +33,7 @@ body {
 
 .lukastamp {
     position: absolute;
+    top: 10%;
     left: 35%;
     width: 5%;
     height: 5%;
@@ -38,6 +42,7 @@ body {
 
 .cloverstamp {
     position: absolute;
+    top: 10%;
     width: 5%;
     height: 5%;
     left: 55%;
@@ -45,6 +50,7 @@ body {
 
 .oliverstamp {
     position: absolute;
+    top: 10%;
     width: 5%;
     height: 5%;
     left: 60%;
@@ -52,6 +58,7 @@ body {
 
 .mikunurse {
     position: absolute;
+    top: 10%;
     right: 20vw;
     bottom: 40vw;
 
